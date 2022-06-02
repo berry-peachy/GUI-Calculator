@@ -1,0 +1,10 @@
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\bin\Debug\Unit2_Calculator_KR.exe.config
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\bin\Debug\Unit2_Calculator_KR.exe
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\bin\Debug\Unit2_Calculator_KR.pdb
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.csproj.AssemblyReference.cache
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.Calculator.resources
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.Properties.Resources.resources
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.csproj.GenerateResource.cache
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.csproj.CoreCompileInputs.cache
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.exe
+C:\Users\Karla\source\repos\Unit2_Calculator_KR\Unit2_Calculator_KR\obj\Debug\Unit2_Calculator_KR.pdb
